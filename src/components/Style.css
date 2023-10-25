@@ -1,0 +1,30 @@
+.modal-button {
+    background-color: #46139f !important;
+    color: white !important;
+}
+
+.modal-button:hover {
+    background-color: #46139f !important;
+}
+
+.modal-buttonB {
+    background-color: #ff7f50 !important;
+    color: white !important;
+}
+
+.modal-buttonB:hover {
+    background-color: #ff7f50 !important;
+}
+
+.modal-buttonC {
+    background-color: #ffffff !important;
+    border: 2px solid #46139f !important;
+    padding: 5px 12px !important;
+
+}
+
+.modal-buttonC:hover {
+    background-color: #ffffff !important;
+    border: 2px solid #46139f !important;
+    padding: 5px 12px !important;
+}
